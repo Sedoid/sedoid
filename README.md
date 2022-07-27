@@ -1,4 +1,5 @@
 ### Heyyo, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![bm7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sedoid&show_icons=true)
 <!-- <a href="https://twitter.com/dfreddydev">
   <img align="left" alt="D. Karlson | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
