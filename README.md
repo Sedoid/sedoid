@@ -56,9 +56,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-&#x1f4c8; GitHub Stats[
-
-![D. Karlson 's Github Stats](https://github-readme-stats.vercel.app/api?username=Sedoid&show_icons=true&theme=radical)
 -->
 
 
